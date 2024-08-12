@@ -5,6 +5,10 @@ files:
     visible: true
     learner_created: false
 feedback_link: https://hyperskill.org/learn/step/4709#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: "<html>Passed. \nHello, Mac Retto!\nCongratulations! It is your first Java\
+    \ program that really works.</html>"
+  time: "Mon, 12 Aug 2024 04:15:54 UTC"
 record: -1
 submission_language: java17

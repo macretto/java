@@ -11,10 +11,14 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Topics/Introduction to Java/Basics" />
             <option value="$PROJECT_DIR$/Topics/Introduction to Java/Close brackets" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to Java/Dancing Java" />
             <option value="$PROJECT_DIR$/Topics/Introduction to Java/Demystifying 'System.out.println()' in Java" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to Java/Hello" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to Java/Java features" />
             <option value="$PROJECT_DIR$/Topics/Introduction to Java/Not a black box" />
             <option value="$PROJECT_DIR$/Topics/Introduction to Java/Running a program on different platforms" />
             <option value="$PROJECT_DIR$/Topics/Introduction to Java/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to Java/WORA" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>

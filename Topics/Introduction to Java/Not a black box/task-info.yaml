@@ -15,6 +15,10 @@ files:
     learner_created: false
 feedback_link: https://hyperskill.org/learn/step/38629#comment
 status: Solved
+feedback:
+  message: "<html>Wow! I can't believe that Java is not your native language, but\
+    \ a foreign one! ;)</html>"
+  time: "Mon, 12 Aug 2024 04:11:23 UTC"
 record: -1
 ordering:
   - 0
